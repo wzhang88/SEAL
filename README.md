@@ -1,6 +1,6 @@
 # SEAL
 
-`DataProcessing.ipynb` is from some testing.
+`DataProcessing.ipynb` is for some testing purposes.
 
 `DataProcessing.py` has functions to process the data.
 
